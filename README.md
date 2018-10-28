@@ -8,7 +8,7 @@ import addScrollClass from '[path/to/addScrollClass.js]'
 
 addScrollClass().init()
 ```
-By default addScrollClass will use `.-scroll-down` and `.-scroll-up` you can change this using an options object: 
+By default addScrollClass will use `.-scroll-down` and `.-scroll-up` you can change this by using an options object: 
 
 ```
 const opts = {
